@@ -35,6 +35,10 @@ a {
   margin: 0;
 }
 
+.hyperlink {
+  color: rgba(0, 155, 223, 1);
+}
+
 .section-1 h2 {
   font-size: 1.7rem;
   margin-bottom: 10px;
@@ -61,7 +65,7 @@ a {
   margin: 0;
 }
 
-.section-2 a {
+/* .section-2 a {
   display: block;
   padding: 5px;
   font-size: 1.2rem;
